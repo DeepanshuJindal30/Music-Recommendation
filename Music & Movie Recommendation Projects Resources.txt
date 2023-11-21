@@ -1,0 +1,18 @@
+1.
+Title-- Emotion based music | ai | deep learning project 
+
+
+ Youtube-- https://www.youtube.com/watch?v=jm9JamrbSv8
+
+ CODE-- https://github.com/Pawandeep-prog/emotion-based-music
+        https://github.com/Pawandeep-prog/liveEmoji
+ Dataset--   NA
+
+2. 
+ Title-- Music Recommender System Using Python 
+
+ Youtube-- https://www.youtube.com/watch?v=jm9JamrbSv8
+
+ CODE-- https://github.com/Chando0185/Music_Recommender_System
+
+ Dataset--  https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
